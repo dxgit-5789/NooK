@@ -1,0 +1,6 @@
+# Font files will be downloaded separately
+# Required fonts:
+# - Inter (Regular, Medium, SemiBold, Bold)
+# - JetBrains Mono (Regular, Medium, Bold)
+#
+# For now, the app will use system fonts as fallback
