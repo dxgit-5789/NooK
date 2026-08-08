@@ -264,6 +264,7 @@ class _WorkspaceSelectionScreenState extends State<WorkspaceSelectionScreen> {
           ),
         ),
       ),
+    )
     );
   }
 
